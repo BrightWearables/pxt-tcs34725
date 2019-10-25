@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "tcs34725",
     "dependencies": {
         "core": "*",
         "radio": "*"
@@ -10,7 +10,7 @@
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
     ]
