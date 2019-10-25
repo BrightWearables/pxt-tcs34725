@@ -8,6 +8,8 @@
     "files": [
         "main.blocks",
         "main.ts",
+        "Adafruit_TCS34725.h",
+        "Adafruit_TCS34725.cpp",
         "README.md"
     ],
     "preferredEditor": "tsprj",
