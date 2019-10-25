@@ -14,5 +14,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "installedVersion": "workspace:719c082a-fec3-4081-56ee-344446a1134b"
 }
